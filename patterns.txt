@@ -7,6 +7,7 @@ for(let i=1;i<=n;i++)
         add=add+'*' 
         
      }
+<<<<<<< HEAD
      add=add+'\n'; 
 }
 console.log(add);
@@ -42,3 +43,8 @@ for(let i=0;i<n;i++)
     sum=sum+'\n'
 }
 console.log(sum)
+=======
+     add=add+'\n'
+}
+console.log(add)
+>>>>>>> 49d040c1a4c599aafc7cd4e944e15147eaf4bc76
