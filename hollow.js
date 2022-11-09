@@ -1,6 +1,6 @@
 const n=5;
 
-let sum=" ";
+let sum="";
 
 for(let i=0; i<n;i++)
 {
@@ -16,7 +16,7 @@ for(let i=0; i<n;i++)
         }
         else
         {
-            sum=sum+""
+            sum=sum+" "
         }
     }
     sum=sum+'\n';
